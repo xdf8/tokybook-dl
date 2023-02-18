@@ -1,0 +1,8 @@
+name: audiobooks
+
+dependencies:
+  - python=3.10 # change python version
+  - pip
+  - pip:
+    # add your requirements
+    
